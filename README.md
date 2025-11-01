@@ -2,4 +2,4 @@ Extraer Cocteles
   API -> CodeSnippets -> shortcode -> Pagina
 
 Añadir Cocteles
-  API -> CodeSnippets -> shortcode -> Pagina
+CodeSnippets -> shortcode -> Pagina
